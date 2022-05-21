@@ -1,0 +1,16 @@
+node_modules
+
+/.cache
+/build
+/dist
+/public/build
+/.mf
+.env
+
+# Tailwind
+/app/styles/tailwind.css
+
+/coverage
+/test-results/
+/playwright-report/
+/playwright/.cache/

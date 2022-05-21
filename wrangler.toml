@@ -1,0 +1,12 @@
+name = "remix-cloudflare-workers"
+
+account_id = ""
+workers_dev = true
+main = "./build/index.js"
+compatibility_date = "2022-05-21"
+
+[site]
+bucket = "./public"
+
+[build]
+command = "npm run build"

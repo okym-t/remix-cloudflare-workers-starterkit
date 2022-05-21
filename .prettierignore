@@ -1,0 +1,6 @@
+/.cache
+/.github
+/build
+/public
+/node_modules
+/app/styles/tailwind.css
