@@ -1,5 +1,13 @@
 {
-  "extends": [
-    "config:base"
-  ]
+  "extends": ["config:base"],
+  "labels": ["renovate"],
+  "packageRules": [
+    {
+      "depTypeList": ["devDependencies"],
+      "automerge": true
+    }
+  ],
+  "patch": { "automerge": true },
+  "timezone": "Asia/Tokyo",
+  "schedule": ["every weekend"]
 }
