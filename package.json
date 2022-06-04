@@ -46,7 +46,7 @@
     "autoprefixer": "10.4.7",
     "c8": "7.11.3",
     "concurrently": "7.2.1",
-    "eslint": "8.16.0",
+    "eslint": "8.17.0",
     "eslint-config-prettier": "8.5.0",
     "happy-dom": "4.1.0",
     "miniflare": "2.5.0",
