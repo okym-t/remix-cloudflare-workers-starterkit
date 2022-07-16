@@ -36,7 +36,7 @@
     "@playwright/test": "1.23.4",
     "@remix-run/dev": "1.6.5",
     "@remix-run/eslint-config": "1.6.5",
-    "@testing-library/dom": "8.15.0",
+    "@testing-library/dom": "8.16.0",
     "@testing-library/jest-dom": "5.16.4",
     "@testing-library/react": "13.3.0",
     "@testing-library/user-event": "14.2.5",
