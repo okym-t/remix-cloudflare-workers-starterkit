@@ -23,9 +23,9 @@
     "e2e:chromium": "playwright test --project=chromium"
   },
   "dependencies": {
-    "@remix-run/cloudflare": "1.6.8",
-    "@remix-run/cloudflare-workers": "1.6.8",
-    "@remix-run/react": "1.6.8",
+    "@remix-run/cloudflare": "1.8.2",
+    "@remix-run/cloudflare-workers": "1.8.2",
+    "@remix-run/react": "1.8.2",
     "cross-env": "7.0.3",
     "react": "18.2.0",
     "react-dom": "18.2.0"
@@ -34,8 +34,8 @@
     "@cloudflare/workers-types": "3.18.0",
     "@playwright-testing-library/test": "4.5.0",
     "@playwright/test": "1.28.1",
-    "@remix-run/dev": "1.6.8",
-    "@remix-run/eslint-config": "1.6.8",
+    "@remix-run/dev": "1.8.2",
+    "@remix-run/eslint-config": "1.8.2",
     "@testing-library/dom": "8.19.0",
     "@testing-library/jest-dom": "5.16.5",
     "@testing-library/react": "13.4.0",
