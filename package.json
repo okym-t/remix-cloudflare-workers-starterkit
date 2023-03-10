@@ -43,7 +43,7 @@
     "@types/react": "18.0.28",
     "@types/react-dom": "18.0.11",
     "@vitejs/plugin-react": "2.2.0",
-    "autoprefixer": "10.4.13",
+    "autoprefixer": "10.4.14",
     "c8": "7.13.0",
     "concurrently": "7.6.0",
     "eslint": "8.35.0",
