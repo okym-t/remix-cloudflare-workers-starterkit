@@ -45,7 +45,7 @@
     "@vitejs/plugin-react": "2.2.0",
     "autoprefixer": "10.4.14",
     "c8": "7.14.0",
-    "concurrently": "8.0.1",
+    "concurrently": "8.1.0",
     "eslint": "8.41.0",
     "eslint-config-prettier": "8.8.0",
     "happy-dom": "9.20.3",
