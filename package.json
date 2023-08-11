@@ -33,7 +33,7 @@
   "devDependencies": {
     "@cloudflare/workers-types": "3.19.0",
     "@playwright-testing-library/test": "4.5.0",
-    "@playwright/test": "1.36.2",
+    "@playwright/test": "1.37.0",
     "@remix-run/dev": "1.8.2",
     "@remix-run/eslint-config": "1.8.2",
     "@testing-library/dom": "9.3.1",
