@@ -31,7 +31,7 @@
     "react-dom": "18.2.0"
   },
   "devDependencies": {
-    "@cloudflare/workers-types": "3.19.0",
+    "@cloudflare/workers-types": "4.20231121.0",
     "@playwright-testing-library/test": "4.5.0",
     "@playwright/test": "1.40.0",
     "@remix-run/dev": "1.8.2",
