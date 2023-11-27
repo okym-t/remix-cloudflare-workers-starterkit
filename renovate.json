@@ -9,5 +9,6 @@
   ],
   "patch": { "automerge": true },
   "timezone": "Asia/Tokyo",
-  "schedule": ["every weekend"]
+  "schedule": ["every weekend"],
+  "enabled": false
 }
